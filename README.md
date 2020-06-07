@@ -1,6 +1,6 @@
 # Covid19-Data-Analysis
 <H3>COVID 19 Data Analysis Using Python</H3>
-<UL><LI> Libraries Used : Numpy, Pandas and Seaborn for Data Analysis.</LI>
+<UL><LI> Libraries Used : Numpy, Pandas, Matplotlib and Seaborn for Data Analysis.</LI>
 <LI>Used two datasets for analysis : 
 <OL><LI>The COVID19 dataset, published by John Hopkins University, consists of the data related to the cumulative number of confirmed cases, per day, in each Country. </LI>
 <LI>Another dataset consists of various life factors, scored by the people living in each country around the globe.</LI></OL></LI>
